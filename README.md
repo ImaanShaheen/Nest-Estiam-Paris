@@ -10,4 +10,5 @@ $ npm install
 
 $ npm run start
 
-## Fait par Imaan SHAHEEN et Redouane NASR
+## Fait par Imaan SHAHEEN et Redouane NASR 
+## E4CCSN Paris
